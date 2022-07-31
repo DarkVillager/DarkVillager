@@ -48,7 +48,7 @@ I’m Dark Ville and I code when I’m bored
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://i.imgur.com/0fuOTQm.jpg" align="center" style="width: 100%" />
 </div>  
 
 
