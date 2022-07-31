@@ -29,7 +29,7 @@ I’m Dark Ville and I code when I’m bored
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently contributing on [Premid’s Presenced](https://github.com/PreMiD/Presences)  
+- 🔭 I’m currently contributing to [Premid’s Presences](https://github.com/PreMiD/Presences)  
   
 
 - ❓ Ask me about anything and I will have no clue  
