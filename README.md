@@ -1,4 +1,4 @@
-<details><summary> Intro </summary><table><tr><td valign="top" width="33%">
+<details><summary> Intro </summary><table><tr><td valign="top" width="100%">
 
 ## Hey 🧀, I'm Dark Ville aka Dark Villager!  
   
@@ -18,13 +18,6 @@
 
 ### Glad to see you here!  
 I’m Dark Ville and I code when I’m bored  
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
 
 
 
