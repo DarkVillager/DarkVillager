@@ -69,8 +69,9 @@ I’m Dark Ville and I code when I’m bored
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkVillager&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<a href="https://wakatime.com/@DarkVillager">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DarkVillager&show_icons=true&hide_border=true&bg_color=02265c&title_color=ea5e00&text_color=FFFFFF&icon_color=00d200">
+</a>  
 
 <br/>  
 
