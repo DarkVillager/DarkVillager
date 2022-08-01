@@ -69,7 +69,8 @@ I’m Dark Ville and I code when I’m bored
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkVillager&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-<img src="https://wakatime.com/share/@DarkVillager/38bd7bbe-9325-41b8-8bb4-9e2550fb90e2.png" />
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br/>  
 
