@@ -64,18 +64,13 @@ I’m Dark Ville and I code when I’m bored
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="33%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=DarkVillager&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="33%">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkVillager&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td><td valign="top" width="33%">
 <img src="https://wakatime.com/share/@DarkVillager/38bd7bbe-9325-41b8-8bb4-9e2550fb90e2.png" />
 
-</td></tr></table>  
 
 <br/>  
 
