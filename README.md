@@ -1,4 +1,4 @@
-<details><summary> Intro </summary><table><tr><td valign="top" width="100%">
+<table><tr><td valign="top" width="100%">
 
 ## Hey 🧀, I'm Dark Ville aka Dark Villager!  
   
@@ -12,6 +12,7 @@
 <a href="https://www.youtube.com/user/Dark_Ville" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
+<a href='https://ko-fi.com/supportkofi' target='_blank'><img height='28' style='border:0px;height:28px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Support me at ko-fi.com' />  
   
 
 
@@ -24,12 +25,9 @@ I’m Dark Ville and I code when I’m bored
 </td></tr></table></details>  
 
 <br/>  
-
-
-## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently contributing to [Premid’s Presences](https://github.com/PreMiD/Presences)  
+- 🔭 I’m currently contributing to [Premid’s Presences](https://github.com/PreMiD/Presences)  & Creating a few discord-bots and other projects
   
 
 - ❓ Ask me about anything and I will have no clue  
@@ -52,12 +50,12 @@ I’m Dark Ville and I code when I’m bored
 
 ## Languages and Tools  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="64" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="64" />  
+<img style="margin: 10px" src="https://i.imgur.com/LCLnTgr.png" alt="Raspberry Pi" height="64" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="64" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="64" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="64" />  
 </div>  
 
 <br/>  
