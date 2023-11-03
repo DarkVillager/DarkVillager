@@ -36,6 +36,9 @@ I’m Dark Ville and I code when I’m bored
 - ⚡ Fun fact: I am a cheese lover  
 
 
+- 🦆 Nicknames: Dark, Ville, Goose, Dark Ville  
+
+
 </td><td valign="top" width="50%">
 
 <div align="center">
