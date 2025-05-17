@@ -28,7 +28,7 @@ I’m Dark Ville and I code when I’m bored
 <br/>  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently contributing to [Premid’s Presences](https://github.com/PreMiD/Presences)  & Creating a few discord-bots and other projects
+- 🔭 I’m currently contributing to me, myself, i & Creating a few discord-bots and other projects
   
 
 - ❓ Ask me about anything and I will have no clue  
