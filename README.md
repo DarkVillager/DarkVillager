@@ -20,8 +20,6 @@
 ### Glad to see you here!  
 I’m Dark Ville and I code when I’m bored  
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/638080361179512853)](https://discord.com/users/638080361179512853)
-
 
 </td></tr></table></details>  
 
