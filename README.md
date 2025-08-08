@@ -78,6 +78,7 @@ I’m Dark Ville and I code when I’m bored
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=DarkVillager&&style=flat-square)  
+![Src of Badges](https://github.com/Ileriayo/markdown-badges)
   
 
 <br/>  
