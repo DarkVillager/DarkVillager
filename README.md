@@ -69,6 +69,11 @@ I’m Dark Ville and I code when I’m bored
 
 <a href="https://wakatime.com/@DarkVillager">
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 </a>  
 
