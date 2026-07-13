@@ -69,7 +69,8 @@ I’m Dark Ville and I code when I’m bored
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   5 mins                █████████████████████████   100.00 %
+Markdown     9 mins                ████████████████████░░░░░   80.37 %
+TypeScript   2 mins                █████░░░░░░░░░░░░░░░░░░░░   19.63 %
 ```
 
 <!--END_SECTION:waka-->
