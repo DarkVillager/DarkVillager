@@ -69,7 +69,8 @@ I’m Dark Ville and I code when I’m bored
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JSON         9 mins                ██████████████████████▒░░   89.55 %
+TypeScript   1 min                 ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
 ```
 
 <!--END_SECTION:waka-->
