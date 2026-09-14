@@ -69,11 +69,8 @@ I’m Dark Ville and I code when I’m bored
 <!--START_SECTION:waka-->
 
 ```txt
-Python       1 hr 2 mins           █████████████████████▓░░░   86.21 %
-reg          7 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
-JSON         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-INI          0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Text         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+reg      7 mins                ████████████████████▒░░░░   81.17 %
+Python   1 min                 ████▓░░░░░░░░░░░░░░░░░░░░   18.83 %
 ```
 
 <!--END_SECTION:waka-->
