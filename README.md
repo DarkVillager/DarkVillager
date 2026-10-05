@@ -69,7 +69,9 @@ I’m Dark Ville and I code when I’m bored
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML    32 mins               ██████████████░░░░░░░░░░░   56.46 %
+Bash    24 mins               ███████████░░░░░░░░░░░░░░   43.48 %
+Other   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
